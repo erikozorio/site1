@@ -1,3 +1,16 @@
 body{
     background-color: green;
 }
+nav{
+    background-color: blue;
+    padding: 15px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav .logo a{
+    text-decoration: none;
+    color: violet;
+    font-size: 35px;
+    font-weight: 600;
+}
