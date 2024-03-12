@@ -145,7 +145,7 @@ aside{
     display: block;
     width: 270px;
     height: 300px;
-    margin: 5px auto;
+    margin: 0px auto;
     border-radius: 180%;
     object-fit:none;
 }
