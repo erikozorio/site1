@@ -120,6 +120,7 @@ aside{
 .container-main article a{
     display: inline;
     text-decoration: none;
+    color: rgb(34, 204, 0);
     margin: 10px 0;
 }
 
