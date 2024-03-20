@@ -225,6 +225,17 @@ aside{
     padding: 5px;
 }
 
+#video-legal a
+{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    background-color: grey;
+    padding: 2px 15px ;
+    border-radius: 25px;
+    margin: 5px 0;
+   
+}
 /*FOOTER*/
 footer{
     display: flex;
