@@ -233,7 +233,7 @@ aside{
     padding: 5px 0;
 }
 
-#video-legal image {
+#video-legal .aside-item video {
     display: block;
     width: 270px;
     height: 300px;
