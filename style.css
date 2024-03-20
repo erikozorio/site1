@@ -225,16 +225,12 @@ aside{
     padding: 5px;
 }
 
-#video-legal a
-{
-    display: inline-block;
+#video-legal ul li a {
+    display: flex;
+    justify-content: space-between;
     text-decoration: none;
-    color: white;
-    background-color: grey;
-    padding: 2px 15px ;
-    border-radius: 25px;
-    margin: 5px 0;
-   
+    color: black;
+    padding: 5px 0;
 }
 /*FOOTER*/
 footer{
