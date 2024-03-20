@@ -90,7 +90,7 @@ aside{
 .container-main article{
     /*border: 1px solid grey;*/
     padding: 10px;
-    background-color: white;
+    background-color: rgb(0, 0, 0);
     margin: 15px 0;
 }
 
