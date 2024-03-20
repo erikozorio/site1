@@ -132,6 +132,10 @@ aside{
     text-decoration: none;
     color: rgb(255, 255, 255);
 }
+.aside-item img{
+    width: 270px;
+    height: 300px;
+}
 
 .aside-item h2{
     background-color: #424242;
