@@ -133,8 +133,11 @@ aside{
     color: rgb(255, 255, 255);
 }
 .aside-item img{
+    display: block;
     width: 270px;
     height: 300px;
+    margin: 5px auto;
+    object-fit:none;
 }
 
 .aside-item h2{
