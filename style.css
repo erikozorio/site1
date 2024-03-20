@@ -234,11 +234,7 @@ aside{
 }
 
 #video-legal video {
-    display: block;
-    width: 270px;
-    height: 300px;
-    margin: 5px auto;
-    object-fit:none;
+    width: 100%;
 }
 
 /*FOOTER*/
