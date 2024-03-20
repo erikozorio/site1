@@ -177,11 +177,7 @@ aside{
     padding: 5px;
 }
 #categorias-links ul li a {
-    display: flex;
-    justify-content: space-between;
-    text-decoration: none;
-    color: black;
-    padding: 5px 0;
+    
 }
 
 #categorias-links ul li a{
