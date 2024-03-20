@@ -221,6 +221,9 @@ aside{
     background-color: rgb(104, 104, 104);
 }
 
+#video-legal{
+    padding: 5px;
+}
 
 /*FOOTER*/
 footer{
