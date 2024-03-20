@@ -126,7 +126,7 @@ aside{
 
 .aside-item{
     margin: 15px 0;
-    background-color: white;
+    background-color: rgb(0, 0, 0);
 }
 
 .aside-item h2{
