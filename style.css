@@ -114,12 +114,12 @@ aside{
     text-align: justify;
     text-indent: 20px;
     line-height: 25px;
+    color: rgb(255, 255, 255);
 }
 
 .container-main article a{
     display: inline;
     text-decoration: none;
-    color: rgb(255, 255, 255);
     margin: 10px 0;
 }
 
