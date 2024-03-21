@@ -228,6 +228,7 @@ aside{
 #video-legal ul li a {
     display: flex;
     justify-content: space-between;
+    text-decoration: none;
     color: black;
     padding: 5px 0;
 }
