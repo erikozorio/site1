@@ -233,10 +233,6 @@ aside{
     padding: 5px 0;
 }
 
-#video-legal .video-legal video-legal {
-    width: 100%;
-}
-
 /*FOOTER*/
 footer{
     display: flex;
